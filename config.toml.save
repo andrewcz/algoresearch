@@ -1,5 +1,5 @@
-baseurl = "https://andrewcz.github.io/"
-title = "Andrew Czeizler"
+aseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Academic"
 copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
